@@ -5,5 +5,5 @@ gem "rspec"
 gem "sinatra"
 
 group :development do
-  gem "pry"
+  gem 'pry', '= 1.4.4'
 end
